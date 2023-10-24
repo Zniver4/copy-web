@@ -1,0 +1,20 @@
+.contenedor {
+    width: 44%; /* Establece el ancho del contenedor */
+    float: left; /* Hace que los contenedores floten a la izquierda */
+    margin: 10px; /* Añade márgenes para separar los contenedores */
+}
+
+.imagen-izquierda {
+    float: left; /* Hace que la imagen flote a la izquierda */
+    margin-right: 10px; /* Añade un margen a la derecha para separarla de la otra imagen */
+}
+
+.imagen-derecha {
+    float: right; /* Hace que la imagen flote a la derecha */
+    margin-left: 10px; /* Añade un margen a la izquierda para separarla de la otra imagen */
+}
+body {
+    margin: auto;
+    width: 2000px; 
+    padding: 55px;
+  }
